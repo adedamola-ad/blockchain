@@ -34,7 +34,7 @@ Now imagine the following scenario, all the service providers are pushing their 
   
 </details>
 </details>
-[x] - Immutability
-[ ] - Distribution
-[ ] - Complexity
-[ ] - Availability
+- [x] Immutability
+- [ ] Distribution
+- [ ] Complexity
+- [ ] Availability
