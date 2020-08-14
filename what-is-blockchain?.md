@@ -1,6 +1,6 @@
 Credit: [Educative](https://www.educative.io/courses/hands-on-blockchain-hyperledger-fabric/xV26VjZ7yMl)
 
-<details>
+## <details>
   <summary><h3>The key features of Blockchain technology</h3></summary>
   
   + Distribution
