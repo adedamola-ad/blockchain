@@ -4,9 +4,11 @@ In this lesson, we will explain the different terminologies used so far in this 
 Since there are multiple terms being used here lets clarify some so there is no confusion:
 
 **LEDGER:** The data store that keeps all blockchain data. 
+<br>
 **Transaction:** Each entry in the ledger. 
+<br>
 **Block:** The transactions are timestamped and stored in groups of blocks.
-
+<br>
 
 On the ledger you can only add a new transaction or read the old ones. You can not update or delete anything.
 
