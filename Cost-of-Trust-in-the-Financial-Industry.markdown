@@ -17,17 +17,22 @@ In this process, multiple employees from all these banks are involved for safe u
 
 <details>
  <summary>Question</summary>
+ 
   Owing to which design feature is bitcoin able to avoid huge transfer fees?
-</details>
-
+  
+  
 - [ ] All transaction history kept on the cloud
 - [ ] No central authority is needed
 - [ ] Transaction history cannot be altered
 - [ ] Transaction history is distributed acoross multiple peers
 
+</details>
+
  <details>
  <summary>Answer</summary>
+ 
  - No central authority is needed
+ 
 </details>
 
 
