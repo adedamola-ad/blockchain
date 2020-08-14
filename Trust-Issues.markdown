@@ -24,10 +24,10 @@ Now imagine the following scenario, all the service providers are pushing their 
   <details>
  <summary>Options</summary>
    
-   [] - Immutability
-   [] - Distribution
-   [] - Complexity
-   [] - Availability
+   [x] - Immutability
+   [ ] - Distribution
+   [ ] - Complexity
+   [ ] - Availability
   
 </details>
 </details>
