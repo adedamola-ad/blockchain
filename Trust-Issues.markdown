@@ -21,4 +21,9 @@ Now imagine the following scenario, all the service providers are pushing their 
 <details>
  <summary>Q</summary>
   What feature of blockchain technology is best illustrated by the used car example?
+  <details>
+ <summary>Options</summary>
+  What feature of blockchain technology is best illustrated by the used car example?
+  
+</details>
 </details>
