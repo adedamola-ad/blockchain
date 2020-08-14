@@ -13,3 +13,10 @@ Since there are multiple terms being used here lets clarify some so there is no 
 On the ledger you can only add a new transaction or read the old ones. You can not update or delete anything.
 
 The ledger is designed to be immutable using **cryptographic algorithms** and its distributed design. The ledger is replicated and maintained by multiple hosts or peers or nodes. This is why its called DLT or Distributed Ledger Technology.
+
+<details>
+  <summary>Credit:</summary>
+  
+  + Link: [Educative.io](https://www.educative.io/courses/hands-on-blockchain-hyperledger-fabric/B8R22v0wqJo)
+  
+</details>
