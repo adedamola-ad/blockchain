@@ -17,6 +17,5 @@ In this process, multiple employees from all these banks are involved for safe u
 
 <details>
   <summary>Credit</summary>
-  [Link:](https://www.educative.io/courses/hands-on-blockchain-hyperledger-fabric/xVovQB3Rknq)|
-  |---|
+  [Link:](https://www.educative.io/courses/hands-on-blockchain-hyperledger-fabric/xVovQB3Rknq)
 </detail>
