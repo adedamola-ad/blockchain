@@ -26,16 +26,14 @@ Now imagine the following scenario, all the service providers are pushing their 
   What feature of blockchain technology is best illustrated by the used car example?
   <details>
  <summary>Options</summary>
-   
-   [x] - Immutability
-   [ ] - Distribution
-   [ ] - Complexity
-   [ ] - Availability
-  
+- [ ] Immutability
+- [ ] Distribution
+- [ ] Complexity
+- [ ] Availability
 </details>
 </details>
 
-- [x] Immutability
+- [ ] Immutability
 - [ ] Distribution
 - [ ] Complexity
 - [ ] Availability
