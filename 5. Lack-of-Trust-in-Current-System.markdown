@@ -11,3 +11,31 @@ Would you trust them if they simply showed you a record of temperature readings 
 Lets imagine another scenario. The vegetables are cut and packaged and a record is added on the blockchain and written on hundreds of peers. Once that package is stored an IoT device repeatedly logs the timestamped temperature entries on the blockchain(on distributed peers). When the item is shipped, the shipping container’s are fitted with IoT logging the timestamped temperature readings on blockchain. At all points of the supply-chain data is read by sensors and put on blockchain - signed and timestamped.
 
 Since you can access the data from blockchain for your vegetable pack and see that it has always remained in the safe zone you can feel safer. You can trust the data coming out of blockchain, without needing a food regulation authority.
+
+<details>
+ <summary>Question</summary>
+ 
+  What feature of blockchain design was best illustrated by the frozen vegetables example?
+  
+  
+- [ ] Efficient
+- [ ] Stable
+- [ ] Immutable
+- [ ] Decentralized
+
+</details>
+
+ <details>
+ <summary>Answer</summary>
+ 
+ - Decentralized
+ 
+</details>
+
+
+ <details>
+  <summary>Credit:</summary>
+  
+  + Link: [Educative.io](https://www.educative.io/courses/hands-on-blockchain-hyperledger-fabric/B89ERoBzg0k)
+  
+</details>
