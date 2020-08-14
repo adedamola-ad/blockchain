@@ -1,6 +1,4 @@
- 
-
-## <details>
+ <details>
   <summary>Credit:</summary>
   
   + Link: [Educative](https://www.educative.io/courses/hands-on-blockchain-hyperledger-fabric/xV26VjZ7yMl)
