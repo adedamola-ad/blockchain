@@ -18,7 +18,7 @@ For car service records, we have paper-based car service books, which can, of co
 ### Resolving trust issues using Blockchain
 Now imagine the following scenario, all the service providers are pushing their service records to a blockchain and the mileage readings of car is being pushed on the blockchain by service providers & IoT devices in car. Moreover, insurance companies are pushing accident details of the car on blockchain. All the timestamped records function to reliably record what happened to the car and by whom. It would be a huge peace of mind for a customer, buying a car with such ‘trustable’ record. Insurance companies would benefit immensely as well, when looking at that data and deciding insurance premiums for a car. And if we were to maintain a mapping of cars to their owners on blockchain, insurance companies benefit further by studying driver behavior.
 
-<detail>
+<details>
  <summary>Q</summary>
   What feature of blockchain technology is best illustrated by the used car example?
-</detail>
+</details>
