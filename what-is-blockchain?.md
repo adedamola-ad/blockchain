@@ -1,7 +1,7 @@
 Credit: [Educative](https://www.educative.io/courses/hands-on-blockchain-hyperledger-fabric/xV26VjZ7yMl)
 
 <details open>
-<summary>## The key features of Blockchain technology</summary>
+  <summary><h1>The key features of Blockchain technology</h1></summary>
 <br>
 - Distribution
 - Immutability
