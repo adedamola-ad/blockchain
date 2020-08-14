@@ -31,8 +31,8 @@ Now imagine the following scenario, all the service providers are pushing their 
 - [ ] Complexity
 - [ ] Availability
 
-  <details>
- <summary>Options</summary>
+ <details>
+ <summary>Answer</summary>
  
  - Immutability
 
