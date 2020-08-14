@@ -1,10 +1,6 @@
-<details>
-  <summary>Credit</summary>
-  [Link:](https://www.educative.io/courses/hands-on-blockchain-hyperledger-fabric/xVovQB3Rknq)|
-  |---|
-</detail>
 Time is money|
 |---|
+
 Let’s take a look at another example.
 
 Let’s say you need to send $100 to a friend in the UAE.
@@ -18,3 +14,9 @@ Your bank updates its records and sends it to the central bank. The central bank
 And this is just the process for ‘record’ updating, where your account is debited and your friends’ is credited. The central authorities of both countries update their records to keep track of how much money must be moved from one end to the other. The actual movement of money might happen later in a different form, carrying its own long process of record updating and trust development.
 
 In this process, multiple employees from all these banks are involved for safe updating of records. Because the stakes are so high, things are done safely to ensure trust is developed. At the same time, the $100 you paid will incur some processing fee deductions at all stops along the way. The trust you put in the current financial system is paid through your time and money. This is where bitcoin comes is as an alternative to this system! In this new system, both you and your friend have a bitcoin address. All you need to do is transfer the money to your friend’s address. No fee, no delay, no middle parties, no cost buying ‘trust’, as the system is trusworthy be design. . We will see in a later chapter with technical detail how bitcoin achieves this. In the next lesson, we will again discuss how current systems struggle with trustworthiness but this time, we will be using a supply chain example.
+
+<details>
+  <summary>Credit</summary>
+  [Link:](https://www.educative.io/courses/hands-on-blockchain-hyperledger-fabric/xVovQB3Rknq)|
+  |---|
+</detail>
