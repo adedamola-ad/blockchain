@@ -1,1 +1,2 @@
-[Time is money]()|---|
+[Time is money]()|
+|---|
