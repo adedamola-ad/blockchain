@@ -14,4 +14,9 @@ Blockchain is a term used to describe DLT, or Distributed Ledger Technology. Blo
 ### Immutability
 Immutability connotes unchanging, it simply that, when data is written to a **Ledger**, it can never be change, it remains there forever. In contrast, in a standard Relational Database, no matter how much security you implement, the data can be accessed and modified on the file system on which the data is persisted. This could be done by corrupt admin or a hacker.
 
-A blockchain system ensures that even if a bit of data is changed at any level on the ledger, the entire system will report an  <span style="color:blue">invalid</span> state. And since the data is distributed on multiple systems, the actual data with a valid state can be recovered from one of the systems.
+A blockchain system ensures that even if a bit of data is changed at any level on the ledger, the entire system will report an  **invalid** state. And since the data is **distributed** on multiple systems, the actual data with a valid state can be recovered from one of the systems.
+
+## Distribution
+As long as you see data on a blockchain and its in a **valid** state on a majority distributed nodes, you can trust that data to be accurate. This __trust__ is key. This trust is achieved in a blockchain system by replicating the datastore on a number of peers(hosts) on the internet. If one of the misbehaving peers goes in an invalid state, the other peers can filter it out. As long as there is a majority of peers agreeing to a common valid state, you can completely trust the data that is stored on that system. This replication also guarantees __high availability__.
+
+This trust is vital! No other system in the past has been able to develop this by design. In this course we will see how blockchain provides this trust by design.
