@@ -1,0 +1,13 @@
+## Terminology
+In this lesson, we will explain the different terminologies used so far in this chapter
+
+Since there are multiple terms being used here lets clarify some so there is no confusion:
+
+**LEDGER:** The data store that keeps all blockchain data. 
+**Transaction:** Each entry in the ledger. 
+**Block:** The transactions are timestamped and stored in groups of blocks.
+
+
+On the ledger you can only add a new transaction or read the old ones. You can not update or delete anything.
+
+The ledger is designed to be immutable using **cryptographic algorithms** and its distributed design. The ledger is replicated and maintained by multiple hosts or peers or nodes. This is why its called DLT or Distributed Ledger Technology.
